@@ -23,6 +23,8 @@ PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-app-poweroffdevice"
 PACKAGES="$PACKAGES luci-app-autotimeset"
+PACKAGES="$PACKAGES luci-app-netdata"
+PACKAGES="$PACKAGES luci-app-netdata-zh-cn"
 
 
 # 构建镜像
